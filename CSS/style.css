@@ -1,0 +1,172 @@
+p{
+font-family: 'Major Mono Display', monospace;
+color: black;
+text-align: center;
+text-indent: 35px;
+text-shadow: 2px 2px 5px black;
+/* font-family: monospace; */
+font-size: 16px;
+/* font-style: italic; */
+font-weight: bold;
+
+}
+
+#Califa{
+    font-family: 'Major Mono Display', monospace;
+    text-align: center;
+    text-shadow: 2px 2px 5px rgb(167, 165, 165);
+}
+
+#links{
+    text-align: center;
+    }
+
+.link{
+
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+    background-color: #ddd;
+    border-radius: 3px;
+    padding: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 2px solid black;
+}   
+
+/* .link:visited{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color:white;
+    font-weight: bold;
+    background-color: black;
+    border-radius: 3px;
+    padding: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 2px solid black;
+} */
+
+.link:hover{
+
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color:white;
+    font-weight: bold;
+    background-color: #474a51;
+    border-radius: 3px;
+    padding: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 2px solid black;
+}
+.link:active{
+
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color:white;
+    font-weight: bold;
+    background-color: rgb(20, 3, 80);
+    border-radius: 3px;
+    padding: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 2px solid black;
+}
+
+body{
+    background-color: #474a51;
+}
+
+/* Assinatura no final da página */
+#fall{
+
+    text-align: center;
+    font-family: MinhaFonte;
+    text-shadow: 2px 2px 5px rgb(189, 171, 171);
+}
+
+
+ol{
+    font-family: 'Major Mono Display', monospace;
+    list-style: none;
+    list-style-position: inside;
+    background-color: #55585e;
+    margin: 0;
+    padding: 10px;
+    font-weight: bold;
+    text-shadow: 2px 2px 3px rgb(189, 171, 171);
+    
+
+
+}
+
+li{
+    border: 1px solid;
+    color: rgb(0, 0, 0);
+    margin: 5px;
+    padding: 5px;
+    background-color: rgb(216, 213, 213);
+    text-align: center;
+    border-radius: 5px;
+}
+
+.linktabela{
+    text-decoration: none;
+    color: black
+}
+
+.linktabela:active{
+
+    font-family: 'Major Mono Display', monospace;
+    text-decoration: none;
+    color:white;
+    font-weight: bold;
+    background-color: rgb(20, 3, 80);
+    border-radius: 3px;
+    padding: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 2px solid black;
+}
+
+.linktabela:hover{
+    
+
+    font-family: 'Major Mono Display', monospace;
+        text-decoration: none;
+        color:white;
+        font-weight: bold;
+        background-color: #474a51;
+        border-radius: 3px;
+        padding: 10px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        
+}
+
+li:hover{
+    font-family: 'Major Mono Display', monospace;
+        text-decoration: none;
+        color:white;
+        font-weight: bold;
+        background-color: #474a51;
+        border-radius: 3px;
+        padding: 10px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        border: 2px solid black;
+}
+li:active{
+    font-family: 'Major Mono Display', monospace;
+    text-decoration: none;
+    color:white;
+    font-weight: bold;
+    background-color: rgb(20, 3, 80);
+    border-radius: 3px;
+    padding: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 2px solid black;
+}
