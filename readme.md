@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="460" height"300" src"[./assets/gifzinho.gif"https://raw.githubusercontent.com/GuiBarradas/DesafioBasico_CSS_HTML/main/assets/gifzinho.gif">
+    <img width="460" height"300" src"f"https://imgur.com/a/7i01uxW.gif">
 </p>
 
 ## Description
